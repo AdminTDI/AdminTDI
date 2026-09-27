@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
 <!-- 🏅 OFFICIAL CISCO CCNA BADGE -->
 <p align="center">
   <a href="https://www.credly.com/badges/4d800f45-7fa4-420f-8ea8-422a69419311/public_url" target="_blank">
